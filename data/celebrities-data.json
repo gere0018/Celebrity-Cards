@@ -1,0 +1,115 @@
+[
+    {
+        "id":"1",
+        "full_name":"Amir Khan",
+        "age": "40",
+        "famous-movies":"Three Idiots, many others...",
+        "salary":"$1000000",
+        "image":"aamir-khan"
+
+    },
+
+    {
+        "id":"2",
+        "full_name":"Ellen Degeneres",
+        "age": "50",
+        "famous-movies":"The Ellen show",
+        "salary":"$20000000",
+        "image":"ellen-degeneres"
+
+    },
+
+     {
+        "id":"3",
+        "full_name":"George Clooney",
+        "age": "40",
+        "famous-movies":"Three Idiots, many others...",
+        "salary":"$1200000",
+        "image":"george-clooney"
+
+    },
+    {
+        "id":"4",
+        "full_name":"Halle Berry",
+        "age": "40",
+        "famous-movies":"Three Idiots, many others...",
+        "salary":"$1000000",
+        "image":"halle-berry"
+
+    },
+   {
+        "id":"5",
+        "full_name":"Jack Nicholson",
+        "age": "40",
+        "famous-movies":"Three Idiots, many others...",
+        "salary":"$1000000",
+        "image":"jack-nicholson"
+
+    },
+    {
+        "id":"6",
+        "full_name":"Jennifer Lopez",
+        "age": "40",
+        "famous-movies":"Three Idiots, many others...",
+        "salary":"$1000000",
+        "image":"jennifer-lopez"
+
+    },
+    {
+        "id":"7",
+        "full_name":"John Travolta",
+        "age": "40",
+        "famous-movies":"Three Idiots, many others...",
+        "salary":"$1000000",
+        "image":"john-travolta"
+
+    },
+    {
+        "id":"8",
+        "full_name":"Kate Winslet",
+        "age": "40",
+        "famous-movies":"Three Idiots, many others...",
+        "salary":"$1000000",
+        "image":"kate-winslet"
+
+    },
+    {
+        "id":"9",
+        "full_name":"Matt Damon",
+        "age": "40",
+        "famous-movies":"Three Idiots, many others...",
+        "salary":"$1000000",
+        "image":"matt-damon"
+
+    },
+    {
+        "id":"10",
+        "full_name":"Oprah Winfrey",
+        "age": "40",
+        "famous-movies":"Three Idiots, many others...",
+        "salary":"$1000000",
+        "image":"oprah-winfrey"
+
+    },
+    {
+        "id":"11",
+        "full_name":"Shah Rukh Khan",
+        "age": "40",
+        "famous-movies":"Three Idiots, many others...",
+        "salary":"$1000000",
+        "image":"shah-rukh-khan"
+
+    },
+    {
+        "id":"12",
+        "full_name":"Sofia Vergara",
+        "age": "40",
+        "famous-movies":"Three Idiots, many others...",
+        "salary":"$1000000",
+        "image":"sofia-vergara"
+
+    }
+
+
+
+]

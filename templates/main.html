@@ -1,0 +1,12 @@
+<main>
+
+    <div class="row" >
+
+        <div  ng-repeat="item in celebritiesData" class="col-xs-12 col-lg-3">
+          <img ng-src="img/{{ item.image }}.jpg" alt="{{ item.full_name }} photo">
+          <h2>{{item.full_name}}</h2>
+          <p><a class="btn btn-default" href="#/details/{{id}}" role="button">View details &raquo;</a></p>
+        </div>
+    </div>
+
+</main>
