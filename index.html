@@ -6,34 +6,32 @@
         <title>Celebrities</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width">
-        <!-- CSS Follows -->
-        <!-- start with bootstrap for our basic layout framework -->
-        <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" rel="stylesheet" />
-        <!-- our own custom css and media queries -->
+        <!-- bootstrap framework  for basic layout -->
+        <link href="css/bootstrap.min.css" rel="stylesheet" />
+        <!-- custom css -->
         <link href="css/app.css" rel="stylesheet" />
 
     </head>
     <body>
-        <div class="container">
-            <header class="row">
+        <header class=" container  masthead">
                 <h1>Celebrities</h1>
             </header>
+        <div class="container bg-info topPadding">
             <ng-view></ng-view>
 
 
         </div>
 
-        <!-- JS Follows -->
-        <!-- main angular file -->
-        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.7/angular.min.js"></script>
+        <!-- Used bower to download my files and linking to them here -->
+        <script src="js/angular/angular.min.js"></script>
+        <!-- Adding Angular routing files -->
+        <script src="js/angular/angular-route.min.js"></script>
 
-        <!-- If we want to use routing then we need this -->
-        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.7/angular-route.min.js"></script>
-
-        <!-- our own app.js file -->
+        <!-- For best code organization i divided my Javascript logic into multiple files and folders -->
         <script src="js/app.js"></script>
         <script src="js/route.js"></script>
         <script src="js/controllers/main.js"></script>
         <script src="js/controllers/details.js"></script>
+        <script src="js/services/services.js"></script>
     </body>
 </html>

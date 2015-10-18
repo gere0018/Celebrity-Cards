@@ -1,0 +1,25 @@
+{
+  "name": "Celebrities",
+  "version": "1.0.0",
+  "homepage": "https://github.com/gere0018/Celebrity-Cards",
+  "authors": [
+    "Nehmat <gere0018@algonquinlive.com>"
+  ],
+  "description": "Angular js routing app displaying celebrities info",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "angular": "~1.4.7",
+    "angular-route": "~1.4.7"
+  }
+}

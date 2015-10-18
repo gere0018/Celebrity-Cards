@@ -1,1 +1,11 @@
-
+.masthead{
+    background-color:   #428bca;
+    color: white;
+    text-align: center;
+}
+.topPadding{
+    padding-top: 1rem;
+}
+.bottomPadding{
+    padding-bottom: 3rem;
+}
